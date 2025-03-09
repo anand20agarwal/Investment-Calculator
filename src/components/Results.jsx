@@ -12,7 +12,7 @@ function Results({input}) {
     <tr>
         <th>Year</th> 
         <th>Investment Value</th>
-        <th>Interest Value</th>
+        <th>Interest Value</th>    
         <th>Total Interset</th>
         <th>Invested Capital</th>
     </tr>
